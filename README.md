@@ -31,8 +31,8 @@ Thoughts of cloud
 ---
 
 ## 🎓 Certifications  
-✅ **AZ-104 - Microsoft Azure Administrator**  
-✅ **AWS CLF-002 - Certified Cloud Practitioner**
+✅ **AZ-104 - Microsoft Azure Administrator**   
+✅ **AWS CLF-002 - Certified Cloud Practitioner**  
 📍 **AZ-305 (In Progress)** – Exam Date: March 2025  
 📍 **AWS Solutions Architect Associate (Planned: April 2025)**  
 
