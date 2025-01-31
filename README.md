@@ -38,5 +38,5 @@ Thoughts of cloud
 ---
 
 ## 📞 Contact Me  
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
+📧 **Email:** [gordon-howes@outlook.com](mailto:gordon-howes@outlook.com)  
 🔗 **LinkedIn:** [linkedin.com/in/gordon-howes-71926b48/](https://www.linkedin.com/in/gordon-howes-71926b48/)  
