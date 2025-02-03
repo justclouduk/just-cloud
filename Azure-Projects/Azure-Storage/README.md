@@ -24,6 +24,6 @@ Before using the resources in this repository, ensure you have:
 - Appropriate **RBAC permissions** to manage Azure Storage
 
 ## Getting Started
-1. Clone this repository:
-   ```sh
-   Azure-Projects/Azure-Storage
+git clone https://github.com/justclouduk/Azure-Projects.git
+cd Azure-Projects/Azure-Storage
+
