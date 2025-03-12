@@ -17,7 +17,7 @@ Thoughts of cloud
 
 ### 🏗 **Azure Identity & Governance**  
 - **Description:** Designed **RBAC & PIM** for secure access management  
-- **Technologies Used:** Azure AD, Conditional Access, Terraform  
+- **Technologies Used:** Azure AD, Conditional Access, Bicep  
 - 🔗 [View Project](./Azure-Projects/Azure-Identity-Governance/README.md)  
 
 ### ☁️ **AWS & Azure Hybrid Cloud**  
@@ -25,9 +25,9 @@ Thoughts of cloud
 - **Technologies Used:** AWS VPC, Azure VNet, VPN Gateway  
 - 🔗 [View Project](./AWS-Projects/AWS-VPC-Setup/README.md)  
 
-### 🏭 **Automated VM Deployment with Terraform**  
-- **Description:** Deployed Azure VMs using Terraform with managed identity  
-- **Technologies Used:** Terraform, Azure Compute, Bicep  
+### 🏭 **Automated VM Deployment with Bicep**  
+- **Description:** Deployed Azure VMs using Bicep with managed identity  
+- **Technologies Used:** Azure Compute, Bicep  
 - 🔗 [View Project](./Azure-Projects/Azure-VM-Deployment/README.md)  
 
 ---
@@ -36,7 +36,6 @@ Thoughts of cloud
 ✅ **AZ-104 - Microsoft Azure Administrator**   
 ✅ **AWS CLF-002 - Certified Cloud Practitioner**  
 📍 **AZ-305 (In Progress)** – Exam Date: March 2025  
-📍 **AWS Solutions Architect Associate (Planned: April 2025)**  
 
 ---
 
